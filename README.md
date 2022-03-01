@@ -6,7 +6,7 @@ ou
 
 Descrição: Texto explicativo curto descrevendo o que e como a aplicação funciona 
 <h1 align="center">
-    <a href="https://pt-br.carteiradedocumentosdigitais.org/">🔗 React</a>
+    <a href="https://pt-br.carteiradedocumentosdigitais.org/"> React</a>
 </h1>
 <p align="center"> lib para construir interfaces do usuário </p>
 Requisitos: Quais são as específicações necessárias para o bom funcionamento da aplicação.
