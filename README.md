@@ -1,7 +1,5 @@
 # RepositoryTamplate
 
-# Nome do Projeto 
-ou
 <h1 >Carteira de Documentos Digitais</h1>
 
 Descrição: Texto explicativo curto descrevendo o que e como a aplicação funciona 
